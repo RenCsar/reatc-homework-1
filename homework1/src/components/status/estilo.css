@@ -1,0 +1,27 @@
+.estatus {
+    background-color: white;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 200px;
+}
+
+.estatus h1 {
+    color: #96BB7C;
+    font-size: 58px;
+    font-weight: bold;
+}
+
+.estatus h5 {
+    color: #252B42;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.estatus div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
