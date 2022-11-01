@@ -17,7 +17,7 @@ export default function Header(){
                 </div>
                 <div className='login-container'>
                     <p>Login</p>
-                    <button>JOIN US</button>
+                    <button>JOINS US</button>
                 </div>
             </header>
         </>
